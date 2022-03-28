@@ -1,4 +1,4 @@
-﻿**Boolean Retrieval System**
+# Boolean Retrieval System
 
 Our retrieval system returns the names of documents from the given dataset that satisfy the boolean query entered. The boolean queries supported are AND, OR, and NOT and their different combinations. The system is also capable of handling different wildcard queries.
 
